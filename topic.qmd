@@ -1,0 +1,8 @@
+---
+title: "Topic"
+author: Paityn Richardson
+format: pdf
+editor: visual
+---
+
+I will be working with professor Dobbs in the Politics department to run a comparative analysis of social housing policies in the United States and one other OECD(Organisation for Economic Cooperation and Development) country. My plan is to work towards an aggregate data visualization using mapping software and overlaying social outcomes, public opinion, and other factors associated with social policy. I am meeting with prof Dobbs tomorrow morning in order to better understand the data we are working with and cement the topic of this project.
