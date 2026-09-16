@@ -1,0 +1,15 @@
+---
+title: "Annotated Bibliography"
+author: Paityn Richardson
+date: September 16 2026
+format: pdf
+bibliography: references.bib
+csl: apa-annotated-bibliography.csl
+---
+
+## Project Outline
+
+This project draws on five complementary sources to trace the housing crisis from its structural origins to its cultural reinforcement. Aalbers's [@aalbers2016] *The Financialization of Housing: A Political Economy Approach* establishes the theoretical and economic foundation, explaining how mortgage lending practices and the financialization of rental housing transformed housing from a social good into a speculative asset class; this source will set up the "why" of the crisis, framing the legislative, economic, and community-values angles that later sections will respond to. HUD's Annual Homeless Assessment  Report [@hud2024], particularly its Housing Inventory Count data, will be used empirically to show that the crisis is not simply one of scarcity but of misallocation, with resources sitting underused while systemic incentives favor asset growth over housing people. The Harrison, Immergluck, and Walker (2025)[@harrison2025] study of Memphis grounds this financialization narrative in a concrete case, using investor-purchase data to show how single-family rental acquisition concentrates in specific neighborhoods and property types. Seymour and Shelton (2023)[@seymour2023] extend this argument by explicitly linking private equity ownership patterns to the exploitation of working-class communities of color, providing the bridge from an economic story to a racialized one. From there, the World Values Survey [@wvs] will carry the analysis into the values-and-stigma dimension of the project: by comparing responses across multiple waves, I plan to track whether individualist, "deservingness"-based attitudes toward poverty and housing support have shifted over time or remained largely stagnant, and to test the hypothesis that any recent movement corresponds to the housing crisis's expansion beyond low-income populations into the middle class. This longitudinal, cross-wave design is what allows the WVS data to speak to change versus continuity, rather than just offering a single snapshot of American versus French values. Later sections, supported by additional sources not yet finalized, will build on this foundation to visualize projected outcomes of specific policy interventions and assess their feasibility against American value alignment and comparative international success, including the French corporatist model discussed in my comparative policy paper.
+
+## References
+

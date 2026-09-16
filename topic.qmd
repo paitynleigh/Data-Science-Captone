@@ -1,6 +1,7 @@
 ---
 title: "Topic"
 author: Paityn Richardson
+date: September 9 2026
 format: pdf
 editor: visual
 ---
